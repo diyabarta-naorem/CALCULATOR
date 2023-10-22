@@ -1,2 +1,7 @@
-# CALCULATOR
-This is a simple calculator, which is made using HTML, CSS and JavaScript. ( * Sorry for the inconvenience : the % doesn't work properly  in this calculator.)
+# Calculator
+Deployed link - [https://naoremdiyabarta.github.io/CALCULATOR/] (https://naoremdiyabarta.github.io/CALCULATOR/)
+
+### `Description:`
+This is a `calculato`, which is made using HTML, CSS and JavaScript.
+
+###  `Thank you for visiting my repository; I appreciate your interest in my work!`
